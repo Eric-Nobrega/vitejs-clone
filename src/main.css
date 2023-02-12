@@ -37,7 +37,7 @@ body {
 #test3 {
   position: absolute;
   max-width: 350px;
-  top: 20%;
+  top: auto;
 }
 
 @media (max-width: 1024px) {
